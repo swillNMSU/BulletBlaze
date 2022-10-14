@@ -8,8 +8,6 @@ Another way to play is download and load the Pico-8 cart directly which is found
 
 <img src="./Functional_Prototype/BulletBlaze_logo.gif" alt="Bullet Blaze Logo" width="128"/>
 
-[Bullet Blaze Pico-8 Cart] (/Functional_Prototype/BulletBlaze.p8)
-
 [Bullet Blaze Web Demo](/Functional_Prototype/bulletblaze.html)
 
 [HTML Preview](https://htmlpreview.github.io/)
